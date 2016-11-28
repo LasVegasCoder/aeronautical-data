@@ -1,0 +1,406 @@
+[
+  {
+    "aerodrome_name": "Cape Newenham",
+    "aerodrome_icao": "PAEH",
+    "aerodrome_iata": "EHM"
+  },
+  {
+    "aerodrome_name": "Eareckson As",
+    "aerodrome_icao": "PASY",
+    "aerodrome_iata": "SYA"
+  },
+  {
+    "aerodrome_name": "Guam Island A.F.B.",
+    "aerodrome_icao": "PGUA",
+    "aerodrome_iata": "UAM"
+  },
+  {
+    "aerodrome_name": "Point Lay",
+    "aerodrome_icao": "PPIZ",
+    "aerodrome_iata": "PIZ"
+  },
+  {
+    "aerodrome_name": "Merle K Smith",
+    "aerodrome_icao": "PACV",
+    "aerodrome_iata": "CDV"
+  },
+  {
+    "aerodrome_name": "Yap Island",
+    "aerodrome_icao": "PTYA",
+    "aerodrome_iata": "YAP"
+  },
+  {
+    "aerodrome_name": "Tatalina",
+    "aerodrome_icao": "PATL",
+    "aerodrome_iata": "TLJ"
+  },
+  {
+    "aerodrome_name": "Kosrae",
+    "aerodrome_icao": "PTSA",
+    "aerodrome_iata": "KSA"
+  },
+  {
+    "aerodrome_name": "Chuuk Intl.",
+    "aerodrome_icao": "PTKK",
+    "aerodrome_iata": "TKK"
+  },
+  {
+    "aerodrome_name": "Tanana",
+    "aerodrome_icao": "PATA",
+    "aerodrome_iata": "TAL"
+  },
+  {
+    "aerodrome_name": "Yakutat",
+    "aerodrome_icao": "PAYA",
+    "aerodrome_iata": "YAK"
+  },
+  {
+    "aerodrome_name": "Ketchikan",
+    "aerodrome_icao": "PAKT",
+    "aerodrome_iata": "KTN"
+  },
+  {
+    "aerodrome_name": "Mcgrath",
+    "aerodrome_icao": "PAMC",
+    "aerodrome_iata": "MCG"
+  },
+  {
+    "aerodrome_name": "Valdez",
+    "aerodrome_icao": "PAVD",
+    "aerodrome_iata": "VDZ"
+  },
+  {
+    "aerodrome_name": "Cape Romanzof",
+    "aerodrome_icao": "PACZ",
+    "aerodrome_iata": "CZF"
+  },
+  {
+    "aerodrome_name": "Lihue/Kauai Island",
+    "aerodrome_icao": "PHLI",
+    "aerodrome_iata": "LIH"
+  },
+  {
+    "aerodrome_name": "Kodiak",
+    "aerodrome_icao": "PADQ",
+    "aerodrome_iata": "ADQ"
+  },
+  {
+    "aerodrome_name": "Tin City Lrrs",
+    "aerodrome_icao": "PATC",
+    "aerodrome_iata": "TNC"
+  },
+  {
+    "aerodrome_name": "Kiritimati/Christmas",
+    "aerodrome_icao": "PLCH",
+    "aerodrome_iata": "CXI"
+  },
+  {
+    "aerodrome_name": "Barter Island",
+    "aerodrome_icao": "PABA",
+    "aerodrome_iata": "BTI"
+  },
+  {
+    "aerodrome_name": "Skagway Municipal",
+    "aerodrome_icao": "PAGY",
+    "aerodrome_iata": "SGY"
+  },
+  {
+    "aerodrome_name": "Mckinley National Park Airport",
+    "aerodrome_icao": "PAIN",
+    "aerodrome_iata": "MCL"
+  },
+  {
+    "aerodrome_name": "Ted Stevens Anchorage Intl.",
+    "aerodrome_icao": "PANC",
+    "aerodrome_iata": "ANC"
+  },
+  {
+    "aerodrome_name": "Kahului",
+    "aerodrome_icao": "PHOG",
+    "aerodrome_iata": "OGG"
+  },
+  {
+    "aerodrome_name": "Saipan Intl",
+    "aerodrome_icao": "PGSN",
+    "aerodrome_iata": "SPN"
+  },
+  {
+    "aerodrome_name": "Midway Naf",
+    "aerodrome_icao": "PMDY",
+    "aerodrome_iata": "MDY"
+  },
+  {
+    "aerodrome_name": "Bethel",
+    "aerodrome_icao": "PABE",
+    "aerodrome_iata": "BET"
+  },
+  {
+    "aerodrome_name": "Koror/Palau Isl.",
+    "aerodrome_icao": "PTRO",
+    "aerodrome_iata": "ROR"
+  },
+  {
+    "aerodrome_name": "Adak Island",
+    "aerodrome_icao": "PADK",
+    "aerodrome_iata": "ADK"
+  },
+  {
+    "aerodrome_name": "Cold Bay",
+    "aerodrome_icao": "PACD",
+    "aerodrome_iata": "CDB"
+  },
+  {
+    "aerodrome_name": "Saint George Island",
+    "aerodrome_icao": "PAPB",
+    "aerodrome_iata": "STG"
+  },
+  {
+    "aerodrome_name": "Fort Yukon",
+    "aerodrome_icao": "PFYU",
+    "aerodrome_iata": "FYU"
+  },
+  {
+    "aerodrome_name": "Makin Island",
+    "aerodrome_icao": "NGMN",
+    "aerodrome_iata": "MTK"
+  },
+  {
+    "aerodrome_name": "Gulkana",
+    "aerodrome_icao": "PAGK",
+    "aerodrome_iata": "GKN"
+  },
+  {
+    "aerodrome_name": "Pohnpei Intl./Island",
+    "aerodrome_icao": "PTPN",
+    "aerodrome_iata": "PNI"
+  },
+  {
+    "aerodrome_name": "Farewell",
+    "aerodrome_icao": "PAFW",
+    "aerodrome_iata": "FWL"
+  },
+  {
+    "aerodrome_name": "Prudhoe Bay/Deadhors",
+    "aerodrome_icao": "PASC",
+    "aerodrome_iata": "SCC"
+  },
+  {
+    "aerodrome_name": "Majuro Atoll Intl.",
+    "aerodrome_icao": "PKMJ",
+    "aerodrome_iata": "MAJ"
+  },
+  {
+    "aerodrome_name": "Kenai",
+    "aerodrome_icao": "PAEN",
+    "aerodrome_iata": "ENA"
+  },
+  {
+    "aerodrome_name": "Nome",
+    "aerodrome_icao": "PAOM",
+    "aerodrome_iata": "OME"
+  },
+  {
+    "aerodrome_name": "Seward",
+    "aerodrome_icao": "PAWD",
+    "aerodrome_iata": "SWD"
+  },
+  {
+    "aerodrome_name": "Kona/Keahole Kailua",
+    "aerodrome_icao": "PHKO",
+    "aerodrome_iata": "KOA"
+  },
+  {
+    "aerodrome_name": "Kalskag",
+    "aerodrome_icao": "PALG",
+    "aerodrome_iata": "KLG"
+  },
+  {
+    "aerodrome_name": "King Salmon",
+    "aerodrome_icao": "PAKN",
+    "aerodrome_iata": "AKN"
+  },
+  {
+    "aerodrome_name": "Lanai",
+    "aerodrome_icao": "PHNY",
+    "aerodrome_iata": "LNY"
+  },
+  {
+    "aerodrome_name": "Fairbanks/Eielson",
+    "aerodrome_icao": "PAEI",
+    "aerodrome_iata": "EIL"
+  },
+  {
+    "aerodrome_name": "Elmendorf Afb",
+    "aerodrome_icao": "PAED",
+    "aerodrome_iata": "EDF"
+  },
+  {
+    "aerodrome_name": "Sparrevohn",
+    "aerodrome_icao": "PASV",
+    "aerodrome_iata": "SVW"
+  },
+  {
+    "aerodrome_name": "Hilo",
+    "aerodrome_icao": "PHTO",
+    "aerodrome_iata": "ITO"
+  },
+  {
+    "aerodrome_name": "Annette Island",
+    "aerodrome_icao": "PANT",
+    "aerodrome_iata": "ANN"
+  },
+  {
+    "aerodrome_name": "Unalakleet",
+    "aerodrome_icao": "PAUN",
+    "aerodrome_iata": "UNK"
+  },
+  {
+    "aerodrome_name": "Agana Nas/Guam",
+    "aerodrome_icao": "PGUM",
+    "aerodrome_iata": "GUM"
+  },
+  {
+    "aerodrome_name": "Bettles",
+    "aerodrome_icao": "PABT",
+    "aerodrome_iata": "BTT"
+  },
+  {
+    "aerodrome_name": "Cape Lisburne",
+    "aerodrome_icao": "PALU",
+    "aerodrome_iata": "LUR"
+  },
+  {
+    "aerodrome_name": "Shishmaref",
+    "aerodrome_icao": "PASH",
+    "aerodrome_iata": "SHH"
+  },
+  {
+    "aerodrome_name": "Kwajalein/Dryess Aaf",
+    "aerodrome_icao": "PKRO"
+  },
+  {
+    "aerodrome_name": "Kotzebue",
+    "aerodrome_icao": "PAOT",
+    "aerodrome_iata": "OTZ"
+  },
+  {
+    "aerodrome_name": "Fairbanks Intl",
+    "aerodrome_icao": "PAFA",
+    "aerodrome_iata": "FAI"
+  },
+  {
+    "aerodrome_name": "Hana/Hawai",
+    "aerodrome_icao": "PHHN",
+    "aerodrome_iata": "HNM"
+  },
+  {
+    "aerodrome_name": "Platinum",
+    "aerodrome_icao": "PAPM",
+    "aerodrome_iata": "PTU"
+  },
+  {
+    "aerodrome_name": "Honolulu",
+    "aerodrome_icao": "PHNL",
+    "aerodrome_iata": "HNL"
+  },
+  {
+    "aerodrome_name": "Barrow",
+    "aerodrome_icao": "PABR",
+    "aerodrome_iata": "BRW"
+  },
+  {
+    "aerodrome_name": "Rota Intl.",
+    "aerodrome_icao": "PGRO",
+    "aerodrome_iata": "ROP"
+  },
+  {
+    "aerodrome_name": "Galena",
+    "aerodrome_icao": "PAGA",
+    "aerodrome_iata": "GAL"
+  },
+  {
+    "aerodrome_name": "Juneau",
+    "aerodrome_icao": "PAJN",
+    "aerodrome_iata": "JNU"
+  },
+  {
+    "aerodrome_name": "Dillingham",
+    "aerodrome_icao": "PADL",
+    "aerodrome_iata": "DLG"
+  },
+  {
+    "aerodrome_name": "Wainwright",
+    "aerodrome_icao": "PAWT",
+    "aerodrome_iata": "AIN"
+  },
+  {
+    "aerodrome_name": "Delta Junction",
+    "aerodrome_icao": "PABI",
+    "aerodrome_iata": "DJN"
+  },
+  {
+    "aerodrome_name": "Beluga",
+    "aerodrome_icao": "PABG",
+    "aerodrome_iata": "BVU"
+  },
+  {
+    "aerodrome_name": "Sitka",
+    "aerodrome_icao": "PASI",
+    "aerodrome_iata": "SIT"
+  },
+  {
+    "aerodrome_name": "Northway",
+    "aerodrome_icao": "PAOR",
+    "aerodrome_iata": "ORT"
+  },
+  {
+    "aerodrome_name": "Yakataga",
+    "aerodrome_icao": "PACY",
+    "aerodrome_iata": "CYT"
+  },
+  {
+    "aerodrome_name": "Homer",
+    "aerodrome_icao": "PAHO",
+    "aerodrome_iata": "HOM"
+  },
+  {
+    "aerodrome_name": "Fairbanks (Ft Wainwright)",
+    "aerodrome_icao": "PAFB",
+    "aerodrome_iata": "FBK"
+  },
+  {
+    "aerodrome_name": "Saint Paul Island",
+    "aerodrome_icao": "PASN",
+    "aerodrome_iata": "SNP"
+  },
+  {
+    "aerodrome_name": "Molokai/Hoolehua",
+    "aerodrome_icao": "PHMK",
+    "aerodrome_iata": "MKK"
+  },
+  {
+    "aerodrome_name": "Dutch Harbor",
+    "aerodrome_icao": "PADU",
+    "aerodrome_iata": "DUT"
+  },
+  {
+    "aerodrome_name": "Anchorage/Merrill Fi",
+    "aerodrome_icao": "PAMR",
+    "aerodrome_iata": "MRI"
+  },
+  {
+    "aerodrome_name": "Kwajalein/Bucholz",
+    "aerodrome_icao": "PKWA",
+    "aerodrome_iata": "KWA"
+  },
+  {
+    "aerodrome_name": "West Tinian",
+    "aerodrome_icao": "PGWT",
+    "aerodrome_iata": "TIQ"
+  },
+  {
+    "aerodrome_name": "Iliamna",
+    "aerodrome_icao": "PAIL",
+    "aerodrome_iata": "ILI"
+  }
+]

@@ -1,0 +1,1006 @@
+[
+  {
+    "aerodrome_name": "Belgorod",
+    "aerodrome_icao": "UUOB",
+    "aerodrome_iata": "EGO"
+  },
+  {
+    "aerodrome_icao": "USNR",
+    "aerodrome_iata": "RAT"
+  },
+  {
+    "aerodrome_name": "Pevek",
+    "aerodrome_icao": "UHMP",
+    "aerodrome_iata": "PWE"
+  },
+  {
+    "aerodrome_name": "Taraz",
+    "aerodrome_icao": "UADD",
+    "aerodrome_iata": "DMB"
+  },
+  {
+    "aerodrome_name": "Grozny",
+    "aerodrome_icao": "URMG",
+    "aerodrome_iata": "GRV"
+  },
+  {
+    "aerodrome_name": "Batumi",
+    "aerodrome_icao": "UGSB",
+    "aerodrome_iata": "BUS"
+  },
+  {
+    "aerodrome_icao": "USCM",
+    "aerodrome_iata": "MQF"
+  },
+  {
+    "aerodrome_name": "Minsk-2",
+    "aerodrome_icao": "UMMS",
+    "aerodrome_iata": "MSQ"
+  },
+  {
+    "aerodrome_name": "Mariupol'",
+    "aerodrome_icao": "UKCM",
+    "aerodrome_iata": "MPW"
+  },
+  {
+    "aerodrome_name": "Kharkiv/Osnova International",
+    "aerodrome_icao": "UKHH",
+    "aerodrome_iata": "HRK"
+  },
+  {
+    "aerodrome_name": "Vostochny",
+    "aerodrome_icao": "UTTP"
+  },
+  {
+    "aerodrome_icao": "UUOK",
+    "aerodrome_iata": "URS"
+  },
+  {
+    "aerodrome_icao": "UATE",
+    "aerodrome_iata": "SCO"
+  },
+  {
+    "aerodrome_icao": "UTDL",
+    "aerodrome_iata": "LBD"
+  },
+  {
+    "aerodrome_name": "Navoi",
+    "aerodrome_icao": "UTSA",
+    "aerodrome_iata": "NVI"
+  },
+  {
+    "aerodrome_name": "Zhytomyr/Smokivka",
+    "aerodrome_icao": "UKKV"
+  },
+  {
+    "aerodrome_icao": "UACC",
+    "aerodrome_iata": "TSE"
+  },
+  {
+    "aerodrome_icao": "UTNN",
+    "aerodrome_iata": "NCU"
+  },
+  {
+    "aerodrome_name": "Kaniv/Pekari",
+    "aerodrome_icao": "UKBE"
+  },
+  {
+    "aerodrome_name": "Brest",
+    "aerodrome_icao": "UMBB",
+    "aerodrome_iata": "BQT"
+  },
+  {
+    "aerodrome_name": "Provideniya Bay",
+    "aerodrome_icao": "UHMD",
+    "aerodrome_iata": "PVS"
+  },
+  {
+    "aerodrome_name": "Fergana",
+    "aerodrome_icao": "UTFF",
+    "aerodrome_iata": "FEG"
+  },
+  {
+    "aerodrome_name": "Orsk",
+    "aerodrome_icao": "UWOR",
+    "aerodrome_iata": "OSW"
+  },
+  {
+    "aerodrome_name": "Bolshoye Savino",
+    "aerodrome_icao": "USPP",
+    "aerodrome_iata": "PEE"
+  },
+  {
+    "aerodrome_name": "Kaluga/Grabtsevo",
+    "aerodrome_icao": "UUBC",
+    "aerodrome_iata": "KLF"
+  },
+  {
+    "aerodrome_icao": "UUBP",
+    "aerodrome_iata": "BZK"
+  },
+  {
+    "aerodrome_icao": "UNAA",
+    "aerodrome_iata": "ABA"
+  },
+  {
+    "aerodrome_icao": "UODD",
+    "aerodrome_iata": "DKS"
+  },
+  {
+    "aerodrome_name": "Sheremetyevo",
+    "aerodrome_icao": "UUEE",
+    "aerodrome_iata": "SVO"
+  },
+  {
+    "aerodrome_name": "Balandino",
+    "aerodrome_icao": "USCC",
+    "aerodrome_iata": "CEK"
+  },
+  {
+    "aerodrome_icao": "UWKD",
+    "aerodrome_iata": "KZN"
+  },
+  {
+    "aerodrome_name": "Yelizovo",
+    "aerodrome_icao": "UHPP",
+    "aerodrome_iata": "PKC"
+  },
+  {
+    "aerodrome_name": "Kremenchuk/Velyka Kokhnivka",
+    "aerodrome_icao": "UKHK",
+    "aerodrome_iata": "KHU"
+  },
+  {
+    "aerodrome_name": "Khomutovo",
+    "aerodrome_icao": "UHSS",
+    "aerodrome_iata": "UUS"
+  },
+  {
+    "aerodrome_icao": "UNII",
+    "aerodrome_iata": "EIE"
+  },
+  {
+    "aerodrome_name": "Gabala",
+    "aerodrome_icao": "UBBQ",
+    "aerodrome_iata": "GBB"
+  },
+  {
+    "aerodrome_name": "Yuzhny",
+    "aerodrome_icao": "UTTT",
+    "aerodrome_iata": "TAS"
+  },
+  {
+    "aerodrome_name": "Mahiliou",
+    "aerodrome_icao": "UMOO",
+    "aerodrome_iata": "MVQ"
+  },
+  {
+    "aerodrome_name": "Saratov Tsentralny",
+    "aerodrome_icao": "UWSS",
+    "aerodrome_iata": "RTW"
+  },
+  {
+    "aerodrome_icao": "ULAL",
+    "aerodrome_iata": "LDG"
+  },
+  {
+    "aerodrome_icao": "UACK",
+    "aerodrome_iata": "KOV"
+  },
+  {
+    "aerodrome_icao": "UTSK",
+    "aerodrome_iata": "KSQ"
+  },
+  {
+    "aerodrome_name": "Sokol",
+    "aerodrome_icao": "UHMM",
+    "aerodrome_iata": "GDX"
+  },
+  {
+    "aerodrome_name": "Talagi",
+    "aerodrome_icao": "ULAA",
+    "aerodrome_iata": "ARH"
+  },
+  {
+    "aerodrome_icao": "URMM",
+    "aerodrome_iata": "MRV"
+  },
+  {
+    "aerodrome_icao": "USTO",
+    "aerodrome_iata": "TOX"
+  },
+  {
+    "aerodrome_name": "Tolmachevo",
+    "aerodrome_icao": "UNNT",
+    "aerodrome_iata": "OVB"
+  },
+  {
+    "aerodrome_name": "Kurumoch",
+    "aerodrome_icao": "UWWW",
+    "aerodrome_iata": "KUF"
+  },
+  {
+    "aerodrome_name": "Mestia",
+    "aerodrome_icao": "UGMS",
+    "aerodrome_iata": "AOM"
+  },
+  {
+    "aerodrome_icao": "UTKN",
+    "aerodrome_iata": "NMA"
+  },
+  {
+    "aerodrome_icao": "UNEE",
+    "aerodrome_iata": "KEJ"
+  },
+  {
+    "aerodrome_name": "Strigino",
+    "aerodrome_icao": "UWGG",
+    "aerodrome_iata": "GOJ"
+  },
+  {
+    "aerodrome_icao": "UTAM",
+    "aerodrome_iata": "MYP"
+  },
+  {
+    "aerodrome_icao": "UESO",
+    "aerodrome_iata": "CKH"
+  },
+  {
+    "aerodrome_icao": "URWA",
+    "aerodrome_iata": "ASF"
+  },
+  {
+    "aerodrome_icao": "URWI",
+    "aerodrome_iata": "ESL"
+  },
+  {
+    "aerodrome_icao": "UASK",
+    "aerodrome_iata": "UKK"
+  },
+  {
+    "aerodrome_name": "Ivano-Frankivs'K",
+    "aerodrome_icao": "UKLI",
+    "aerodrome_iata": "IFO"
+  },
+  {
+    "aerodrome_name": "Lipetsk",
+    "aerodrome_icao": "UUOL",
+    "aerodrome_iata": "LPK"
+  },
+  {
+    "aerodrome_name": "Orenburg Tsentralny",
+    "aerodrome_icao": "UWOO",
+    "aerodrome_iata": "REN"
+  },
+  {
+    "aerodrome_name": "Minsk-1",
+    "aerodrome_icao": "UMMM",
+    "aerodrome_iata": "MHP"
+  },
+  {
+    "aerodrome_name": "Zavods'Ke",
+    "aerodrome_icao": "UKFW"
+  },
+  {
+    "aerodrome_name": "Nikolaevsk-Na-Amure",
+    "aerodrome_icao": "UHNN"
+  },
+  {
+    "aerodrome_name": "Uzhhorod",
+    "aerodrome_icao": "UKLU",
+    "aerodrome_iata": "UDJ"
+  },
+  {
+    "aerodrome_icao": "UWKS",
+    "aerodrome_iata": "CSY"
+  },
+  {
+    "aerodrome_icao": "URRR",
+    "aerodrome_iata": "ROV"
+  },
+  {
+    "aerodrome_icao": "UWKE",
+    "aerodrome_iata": "NBC"
+  },
+  {
+    "aerodrome_icao": "UUMT"
+  },
+  {
+    "aerodrome_icao": "UAOO",
+    "aerodrome_iata": "KZO"
+  },
+  {
+    "aerodrome_name": "Ignatyevo",
+    "aerodrome_icao": "UHBB",
+    "aerodrome_iata": "BQS"
+  },
+  {
+    "aerodrome_name": "Gyumri",
+    "aerodrome_icao": "UDSG",
+    "aerodrome_iata": "LWN"
+  },
+  {
+    "aerodrome_icao": "USRK",
+    "aerodrome_iata": "KGP"
+  },
+  {
+    "aerodrome_icao": "ULWW",
+    "aerodrome_iata": "VGD"
+  },
+  {
+    "aerodrome_icao": "ULDD",
+    "aerodrome_iata": "AMV"
+  },
+  {
+    "aerodrome_name": "Roschino",
+    "aerodrome_icao": "USTR",
+    "aerodrome_iata": "TJM"
+  },
+  {
+    "aerodrome_icao": "UUYT"
+  },
+  {
+    "aerodrome_name": "Dzhankoj",
+    "aerodrome_icao": "UKFY"
+  },
+  {
+    "aerodrome_name": "Kurgan",
+    "aerodrome_icao": "USUU",
+    "aerodrome_iata": "KRO"
+  },
+  {
+    "aerodrome_name": "Odesa",
+    "aerodrome_icao": "UKOO",
+    "aerodrome_iata": "ODS"
+  },
+  {
+    "aerodrome_name": "Orsha",
+    "aerodrome_icao": "UMIO"
+  },
+  {
+    "aerodrome_name": "Boralday",
+    "aerodrome_icao": "UAAR"
+  },
+  {
+    "aerodrome_icao": "USNN",
+    "aerodrome_iata": "NJC"
+  },
+  {
+    "aerodrome_icao": "UTSS",
+    "aerodrome_iata": "SKD"
+  },
+  {
+    "aerodrome_name": "Migalovo",
+    "aerodrome_icao": "UUEM",
+    "aerodrome_iata": "KLD"
+  },
+  {
+    "aerodrome_name": "Omsk Tsentralny",
+    "aerodrome_icao": "UNOO",
+    "aerodrome_iata": "OMS"
+  },
+  {
+    "aerodrome_name": "Khrabrovo",
+    "aerodrome_icao": "UMKK",
+    "aerodrome_iata": "KGD"
+  },
+  {
+    "aerodrome_icao": "USMM",
+    "aerodrome_iata": "NYM"
+  },
+  {
+    "aerodrome_icao": "UAUR",
+    "aerodrome_iata": "AYK"
+  },
+  {
+    "aerodrome_name": "Balakovo Oblast",
+    "aerodrome_iata": "BWO"
+  },
+  {
+    "aerodrome_name": "Homiel",
+    "aerodrome_icao": "UMGG",
+    "aerodrome_iata": "GME"
+  },
+  {
+    "aerodrome_name": "Natakhtari",
+    "aerodrome_icao": "UGSA"
+  },
+  {
+    "aerodrome_name": "Besovets",
+    "aerodrome_icao": "ULPB",
+    "aerodrome_iata": "PES"
+  },
+  {
+    "aerodrome_name": "Zaporizhzhia/Mokraya",
+    "aerodrome_icao": "UKDE",
+    "aerodrome_iata": "OZH"
+  },
+  {
+    "aerodrome_name": "Baranovichi",
+    "aerodrome_icao": "UMMA"
+  },
+  {
+    "aerodrome_icao": "ULWB"
+  },
+  {
+    "aerodrome_name": "Vostochny",
+    "aerodrome_icao": "UWLW",
+    "aerodrome_iata": "ULY"
+  },
+  {
+    "aerodrome_name": "Knevichi",
+    "aerodrome_icao": "UHWW",
+    "aerodrome_iata": "VVO"
+  },
+  {
+    "aerodrome_name": "Machulishchi",
+    "aerodrome_icao": "UMLI"
+  },
+  {
+    "aerodrome_name": "Sumy",
+    "aerodrome_icao": "UKHS",
+    "aerodrome_iata": "UMY"
+  },
+  {
+    "aerodrome_icao": "URMN",
+    "aerodrome_iata": "NAL"
+  },
+  {
+    "aerodrome_icao": "UARR",
+    "aerodrome_iata": "URA"
+  },
+  {
+    "aerodrome_icao": "UTDD",
+    "aerodrome_iata": "DYU"
+  },
+  {
+    "aerodrome_name": "Koltsovo",
+    "aerodrome_icao": "USSS",
+    "aerodrome_iata": "SVX"
+  },
+  {
+    "aerodrome_name": "Kutaisi/Kopitnari",
+    "aerodrome_icao": "UGKO",
+    "aerodrome_iata": "KUT"
+  },
+  {
+    "aerodrome_name": "Uzmet",
+    "aerodrome_icao": "UTTW"
+  },
+  {
+    "aerodrome_name": "Ternopil'",
+    "aerodrome_icao": "UKLT",
+    "aerodrome_iata": "TNL"
+  },
+  {
+    "aerodrome_icao": "ULMM",
+    "aerodrome_iata": "MMK"
+  },
+  {
+    "aerodrome_icao": "UTSB",
+    "aerodrome_iata": "BHK"
+  },
+  {
+    "aerodrome_name": "Kadala",
+    "aerodrome_icao": "UIAA",
+    "aerodrome_iata": "HTA"
+  },
+  {
+    "aerodrome_name": "Vinnytsia/Gavryshivka",
+    "aerodrome_icao": "UKWW",
+    "aerodrome_iata": "VIN"
+  },
+  {
+    "aerodrome_name": "Beslan",
+    "aerodrome_icao": "URMO",
+    "aerodrome_iata": "OGZ"
+  },
+  {
+    "aerodrome_name": "Shpakovskoye",
+    "aerodrome_icao": "URMT",
+    "aerodrome_iata": "STW"
+  },
+  {
+    "aerodrome_icao": "UASS",
+    "aerodrome_iata": "PLX"
+  },
+  {
+    "aerodrome_icao": "UESS",
+    "aerodrome_iata": "CYX"
+  },
+  {
+    "aerodrome_name": "Severo-Donetsk",
+    "aerodrome_icao": "UKCS",
+    "aerodrome_iata": "SEV"
+  },
+  {
+    "aerodrome_name": "Kyzyl",
+    "aerodrome_icao": "UNKY",
+    "aerodrome_iata": "KYZ"
+  },
+  {
+    "aerodrome_name": "Kherson",
+    "aerodrome_icao": "UKOH",
+    "aerodrome_iata": "KHE"
+  },
+  {
+    "aerodrome_name": "Simferopol'",
+    "aerodrome_icao": "UKFF",
+    "aerodrome_iata": "SIP"
+  },
+  {
+    "aerodrome_name": "Ganja",
+    "aerodrome_icao": "UBBG",
+    "aerodrome_iata": "KVD"
+  },
+  {
+    "aerodrome_icao": "UUYW",
+    "aerodrome_iata": "VKT"
+  },
+  {
+    "aerodrome_name": "Mukhino",
+    "aerodrome_icao": "UIUU",
+    "aerodrome_iata": "UUD"
+  },
+  {
+    "aerodrome_name": "Hrodna",
+    "aerodrome_icao": "UMMG",
+    "aerodrome_iata": "GNA"
+  },
+  {
+    "aerodrome_name": "Poltava",
+    "aerodrome_icao": "UKHP",
+    "aerodrome_iata": "PLV"
+  },
+  {
+    "aerodrome_icao": "UATT",
+    "aerodrome_iata": "AKX"
+  },
+  {
+    "aerodrome_icao": "ULAM",
+    "aerodrome_iata": "NNM"
+  },
+  {
+    "aerodrome_icao": "UWUU",
+    "aerodrome_iata": "UFA"
+  },
+  {
+    "aerodrome_icao": "UAKK",
+    "aerodrome_iata": "KGF"
+  },
+  {
+    "aerodrome_name": "Kyiv/Boryspil",
+    "aerodrome_icao": "UKBB",
+    "aerodrome_iata": "KBP"
+  },
+  {
+    "aerodrome_icao": "UCFO",
+    "aerodrome_iata": "OSS"
+  },
+  {
+    "aerodrome_name": "Manas",
+    "aerodrome_icao": "UCFM",
+    "aerodrome_iata": "FRU"
+  },
+  {
+    "aerodrome_name": "Kyiv/Antonov-1",
+    "aerodrome_icao": "UKKT"
+  },
+  {
+    "aerodrome_name": "L'Viv",
+    "aerodrome_icao": "UKLL",
+    "aerodrome_iata": "LWO"
+  },
+  {
+    "aerodrome_icao": "UEEE",
+    "aerodrome_iata": "YKS"
+  },
+  {
+    "aerodrome_icao": "UASP",
+    "aerodrome_iata": "PWQ"
+  },
+  {
+    "aerodrome_name": "Kyiv/Zhuliany",
+    "aerodrome_icao": "UKKK",
+    "aerodrome_iata": "IEV"
+  },
+  {
+    "aerodrome_name": "Kotlas",
+    "aerodrome_icao": "ULKK",
+    "aerodrome_iata": "KSZ"
+  },
+  {
+    "aerodrome_name": "Berdyansk",
+    "aerodrome_icao": "UKDB",
+    "aerodrome_iata": "ERD"
+  },
+  {
+    "aerodrome_icao": "UTST",
+    "aerodrome_iata": "TMJ"
+  },
+  {
+    "aerodrome_name": "Khmel'Nyts'Kyi",
+    "aerodrome_icao": "UKLH",
+    "aerodrome_iata": "HMJ"
+  },
+  {
+    "aerodrome_name": "Domodedovo",
+    "aerodrome_icao": "UUDD",
+    "aerodrome_iata": "DME"
+  },
+  {
+    "aerodrome_name": "Novy Khabarovsk",
+    "aerodrome_icao": "UHHH",
+    "aerodrome_iata": "KHV"
+  },
+  {
+    "aerodrome_iata": "NVR"
+  },
+  {
+    "aerodrome_name": "Pashkovsky",
+    "aerodrome_icao": "URKK",
+    "aerodrome_iata": "KRR"
+  },
+  {
+    "aerodrome_name": "Andizhan",
+    "aerodrome_icao": "UTFA",
+    "aerodrome_iata": "AZN"
+  },
+  {
+    "aerodrome_icao": "UACP",
+    "aerodrome_iata": "PPK"
+  },
+  {
+    "aerodrome_icao": "ULOO",
+    "aerodrome_iata": "PKV"
+  },
+  {
+    "aerodrome_name": "Kirovohrad",
+    "aerodrome_icao": "UKKG",
+    "aerodrome_iata": "KGO"
+  },
+  {
+    "aerodrome_name": "Bykovo",
+    "aerodrome_iata": "BKA"
+  },
+  {
+    "aerodrome_icao": "ULAK"
+  },
+  {
+    "aerodrome_name": "Kerch",
+    "aerodrome_icao": "UKFK",
+    "aerodrome_iata": "KHC"
+  },
+  {
+    "aerodrome_name": "Izmail",
+    "aerodrome_icao": "UKOI",
+    "aerodrome_iata": "IZL"
+  },
+  {
+    "aerodrome_name": "Tbilisi/Tbilisi",
+    "aerodrome_icao": "UGTB",
+    "aerodrome_iata": "TBS"
+  },
+  {
+    "aerodrome_name": "Cherkasy",
+    "aerodrome_icao": "UKKE",
+    "aerodrome_iata": "CKC"
+  },
+  {
+    "aerodrome_name": "Ozerne",
+    "aerodrome_icao": "UKKO",
+    "aerodrome_iata": "ZTR"
+  },
+  {
+    "aerodrome_icao": "UHOO",
+    "aerodrome_iata": "OHO"
+  },
+  {
+    "aerodrome_icao": "UCFP"
+  },
+  {
+    "aerodrome_icao": "UUMU"
+  },
+  {
+    "aerodrome_icao": "UTAA",
+    "aerodrome_iata": "ASB"
+  },
+  {
+    "aerodrome_name": "Chulman",
+    "aerodrome_icao": "UELL",
+    "aerodrome_iata": "NER"
+  },
+  {
+    "aerodrome_icao": "UWPP",
+    "aerodrome_iata": "PEZ"
+  },
+  {
+    "aerodrome_icao": "UTAV",
+    "aerodrome_iata": "CRZ"
+  },
+  {
+    "aerodrome_name": "Ugolny",
+    "aerodrome_icao": "UHMA",
+    "aerodrome_iata": "DYR"
+  },
+  {
+    "aerodrome_name": "Kryvyi Rih/Lozuvatka",
+    "aerodrome_icao": "UKDR",
+    "aerodrome_iata": "KWG"
+  },
+  {
+    "aerodrome_icao": "UAAT",
+    "aerodrome_iata": "TDK"
+  },
+  {
+    "aerodrome_name": "Vnukovo",
+    "aerodrome_icao": "UUWW",
+    "aerodrome_iata": "VKO"
+  },
+  {
+    "aerodrome_icao": "UUYY",
+    "aerodrome_iata": "SCW"
+  },
+  {
+    "aerodrome_icao": "UNIT"
+  },
+  {
+    "aerodrome_icao": "UAKD",
+    "aerodrome_iata": "DZN"
+  },
+  {
+    "aerodrome_name": "Yerevan",
+    "aerodrome_icao": "UDYZ",
+    "aerodrome_iata": "EVN"
+  },
+  {
+    "aerodrome_name": "Issyk-Kul",
+    "aerodrome_icao": "UCFL"
+  },
+  {
+    "aerodrome_name": "Yubileyniy",
+    "aerodrome_icao": "UAON"
+  },
+  {
+    "aerodrome_name": "Viciebsk",
+    "aerodrome_icao": "UMII",
+    "aerodrome_iata": "VTB"
+  },
+  {
+    "aerodrome_name": "Kharkiv/Sokol'Nyky",
+    "aerodrome_icao": "UKHD"
+  },
+  {
+    "aerodrome_icao": "UATG",
+    "aerodrome_iata": "GUW"
+  },
+  {
+    "aerodrome_name": "Almaty",
+    "aerodrome_icao": "UAAA",
+    "aerodrome_iata": "ALA"
+  },
+  {
+    "aerodrome_name": "Mykolaiv",
+    "aerodrome_icao": "UKON",
+    "aerodrome_iata": "NLV"
+  },
+  {
+    "aerodrome_icao": "UOHH",
+    "aerodrome_iata": "HTG"
+  },
+  {
+    "aerodrome_name": "Narimanovka",
+    "aerodrome_icao": "UAUU",
+    "aerodrome_iata": "KSN"
+  },
+  {
+    "aerodrome_name": "Mansiysk",
+    "aerodrome_icao": "USHH",
+    "aerodrome_iata": "HMA"
+  },
+  {
+    "aerodrome_name": "Seghnan",
+    "aerodrome_icao": "OASN",
+    "aerodrome_iata": "SGA"
+  },
+  {
+    "aerodrome_name": "Chernivtsi",
+    "aerodrome_icao": "UKLN",
+    "aerodrome_iata": "CWC"
+  },
+  {
+    "aerodrome_name": "Rivne",
+    "aerodrome_icao": "UKLR",
+    "aerodrome_iata": "RWN"
+  },
+  {
+    "aerodrome_name": "Erebuni (Mil)",
+    "aerodrome_icao": "UDYE"
+  },
+  {
+    "aerodrome_icao": "UUYH",
+    "aerodrome_iata": "UCT"
+  },
+  {
+    "aerodrome_name": "Lymans'Ke",
+    "aerodrome_icao": "UKOM"
+  },
+  {
+    "aerodrome_name": "Adler",
+    "aerodrome_icao": "URSS",
+    "aerodrome_iata": "AER"
+  },
+  {
+    "aerodrome_icao": "UASB",
+    "aerodrome_iata": "EKB"
+  },
+  {
+    "aerodrome_icao": "USRR",
+    "aerodrome_iata": "SGC"
+  },
+  {
+    "aerodrome_icao": "UAII",
+    "aerodrome_iata": "CIT"
+  },
+  {
+    "aerodrome_icao": "UEST",
+    "aerodrome_iata": "IKS"
+  },
+  {
+    "aerodrome_icao": "UTNU",
+    "aerodrome_iata": "UGC"
+  },
+  {
+    "aerodrome_icao": "UNBB",
+    "aerodrome_iata": "BAX"
+  },
+  {
+    "aerodrome_name": "Gumrak",
+    "aerodrome_icao": "URWW",
+    "aerodrome_iata": "VOG"
+  },
+  {
+    "aerodrome_name": "Krechevitsy",
+    "aerodrome_icao": "ULLK"
+  },
+  {
+    "aerodrome_name": "Kyiv/Antonov-2",
+    "aerodrome_icao": "UKKM",
+    "aerodrome_iata": "GML"
+  },
+  {
+    "aerodrome_name": "Tomsk/Bogashevo",
+    "aerodrome_icao": "UNTT",
+    "aerodrome_iata": "TOF"
+  },
+  {
+    "aerodrome_icao": "UHBI",
+    "aerodrome_iata": "GDG"
+  },
+  {
+    "aerodrome_name": "Luhans'K",
+    "aerodrome_icao": "UKCW",
+    "aerodrome_iata": "VSG"
+  },
+  {
+    "aerodrome_name": "Pulkovo",
+    "aerodrome_icao": "ULLI",
+    "aerodrome_iata": "LED"
+  },
+  {
+    "aerodrome_name": "Ramenskoye",
+    "aerodrome_icao": "UUBW"
+  },
+  {
+    "aerodrome_name": "Baku/Heydar Aliyev",
+    "aerodrome_icao": "UBBB",
+    "aerodrome_iata": "GYD"
+  },
+  {
+    "aerodrome_name": "Yaroslavl/Tunoshna",
+    "aerodrome_icao": "UUDL",
+    "aerodrome_iata": "IAR"
+  },
+  {
+    "aerodrome_icao": "ULWC",
+    "aerodrome_iata": "CEE"
+  },
+  {
+    "aerodrome_name": "Kant",
+    "aerodrome_icao": "UCFW"
+  },
+  {
+    "aerodrome_name": "Dnipropetrovs'K",
+    "aerodrome_icao": "UKDD",
+    "aerodrome_iata": "DNK"
+  },
+  {
+    "aerodrome_icao": "ULWT"
+  },
+  {
+    "aerodrome_icao": "UUYP",
+    "aerodrome_iata": "PEX"
+  },
+  {
+    "aerodrome_name": "Donets'K ",
+    "aerodrome_icao": "UKCC",
+    "aerodrome_iata": "DOK"
+  },
+  {
+    "aerodrome_icao": "ULOL",
+    "aerodrome_iata": "VLU"
+  },
+  {
+    "aerodrome_name": "Vityazevo",
+    "aerodrome_icao": "URKA",
+    "aerodrome_iata": "AAQ"
+  },
+  {
+    "aerodrome_icao": "UTAT",
+    "aerodrome_iata": "TAZ"
+  },
+  {
+    "aerodrome_icao": "UTKK"
+  },
+  {
+    "aerodrome_name": "Krasnovodsk",
+    "aerodrome_icao": "UTAK",
+    "aerodrome_iata": "KRW"
+  },
+  {
+    "aerodrome_name": "Ostafyevo",
+    "aerodrome_icao": "UUMO"
+  },
+  {
+    "aerodrome_icao": "UAAH",
+    "aerodrome_iata": "BXH"
+  },
+  {
+    "aerodrome_icao": "UNKL",
+    "aerodrome_iata": "KJA"
+  },
+  {
+    "aerodrome_name": "Nakhchivan",
+    "aerodrome_icao": "UBBN",
+    "aerodrome_iata": "NAJ"
+  },
+  {
+    "aerodrome_name": "Sevastopol'/Bel'Bek",
+    "aerodrome_icao": "UKFB",
+    "aerodrome_iata": "UKS"
+  },
+  {
+    "aerodrome_icao": "UUMB"
+  },
+  {
+    "aerodrome_icao": "USKK",
+    "aerodrome_iata": "KVX"
+  },
+  {
+    "aerodrome_name": "Lenkoran",
+    "aerodrome_icao": "UBBL",
+    "aerodrome_iata": "LLK"
+  },
+  {
+    "aerodrome_icao": "URML",
+    "aerodrome_iata": "MCX"
+  },
+  {
+    "aerodrome_icao": "UIII",
+    "aerodrome_iata": "IKT"
+  },
+  {
+    "aerodrome_name": "Zagatala",
+    "aerodrome_icao": "UBBY",
+    "aerodrome_iata": "ZTU"
+  },
+  {
+    "aerodrome_name": "Voronezh",
+    "aerodrome_icao": "UUOO",
+    "aerodrome_iata": "VOZ"
+  },
+  {
+    "aerodrome_icao": "UIBB",
+    "aerodrome_iata": "BTK"
+  }
+]
